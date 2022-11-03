@@ -9,7 +9,7 @@ In addition to earning my degree in Computer Science, I am pursuing a minor in I
 I have an deep passion in developing technology and using Web3 to improve society and how we interact with the world. 
 More specifically, I have interests in XR, Blockchain, and Machine Learning / Artificial Intelligence. I would love to connect and share ideas.
 
-Chat with me: https://calendly.com/sjrodriguez-iii/chat-w-me
+Chat with me: [calendly](https://calendly.com/sjrodriguez-iii/chat-w-me)
 
 My email: srodri25 {@} nd.edu
 Check out my site: svntii.github.io
