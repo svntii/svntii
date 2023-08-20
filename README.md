@@ -6,7 +6,7 @@
 I am born and raised in the Bronx, half Puerto Rican and Dominican and 1 of 7! 
 I major in Computer Science at the University of Notre Dame. 
 In addition to earning my degree, I am pursuing a minor in Innovation and Entrepreneurship. 
-I have an deep passion in developing distruptive technology inorder to improve society and how we interact with the world. 
+I have an deep passion in developing disruptive technology in order to improve society and how we interact with the world. 
 I have interests in XR, Blockchain, and Machine Learning / Artificial Intelligence.   
 
 I would love to connect and share ideas.
