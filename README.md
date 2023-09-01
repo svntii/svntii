@@ -14,7 +14,7 @@ I would love to connect and share ideas.
 ## 🛠 Skills + 
 Languages I know:  
 
-[![ Python, Java, C/C++, ocaml, js](https://skillicons.dev/icons?i=py,java,c,cpp,ocaml,js)](https://skillicons.dev)
+[![ Python, Java, C/C++, ocaml, js](https://skillicons.dev/icons?i=py,java,c,cpp,ocaml,swift)](https://skillicons.dev)
 
 Technologies I worked with:  
 
