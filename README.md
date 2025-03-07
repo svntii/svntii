@@ -3,13 +3,10 @@
 
 
 ## 🚀 About Me
-I am born and raised in the Bronx, half Puerto Rican and Dominican and 1 of 7! 
-I major in Computer Science at the University of Notre Dame. 
-In addition to earning my degree, I am pursuing a minor in Innovation and Entrepreneurship. 
-I have an deep passion in developing disruptive technology in order to improve society and how we interact with the world. 
-I have interests in XR, Blockchain, and Machine Learning / Artificial Intelligence.   
+Santiago Rodriguez is a software engineer with a Bachelor of Science in Computer Science from the University of Notre Dame du Lac. Raised in the Bronx, he excelled academically, earning the Hipp-Beeler Scholarship and Faculty Choice Senior awards. Currently, Santiago is part of Apple’s Evolve Rotational Program in New York City, where he develops innovative iOS features for the Apple Sports App, focusing on performance, accessibility, and new functionalities.
 
-I would love to connect and share ideas.
+Proficient in Swift, Python, Java, C, and TypeScript, Santiago has experience with Xcode, SwiftUI, LangChain, and React. His previous roles include Software Engineer Intern at Apple in San Diego and Software Developer at BILL in San Jose, where he worked on API development and micro-services.
+Santiago has led research projects, including a multi-class segmentation project using PyTorch and HuggingFace, and developed EyeTrack, a real-time computer vision system. He is a founding member of Colorstack, a tech non-profit, and is passionate about XR, Blockchain, and AI. In his free time, Santiago enjoys hiking, working out, listening to music, and learning to DJ and produce music. He is eager to connect and share ideas with others.
 
 ## 🛠 Skills + 
 Languages I know:  
@@ -24,4 +21,3 @@ Technologies I worked with:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://svntiiago.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sjrodriguez-iii)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/strangesantiago)
-[Chat with me](https://calendly.com/sjrodriguez-iii/chat-w-me)
